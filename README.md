@@ -14,7 +14,7 @@ This repo contains the standalone **Windows executable (.exe)** version of my Py
 
 ## 🧠 About the App
 
-The original app is built using **Python** and **PyQt6**. It’s designed to help with note-taking, especially for studying cybersecurity topics.  
+The original app is built using **Python** and **tkinter**. It’s designed to help with note-taking, especially for studying cybersecurity topics.  
 
 If you're interested in the source code, you can check out the full project here:  
 👉 [Notes App (Source)](https://github.com/toxictager/notes-project)
