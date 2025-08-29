@@ -32,13 +32,14 @@ Download the Linux ZIP from the latest release
 Extract the ZIP
 
 Give the binary executable permission:
-
+```bash
 chmod +x notes-linux
-
+```
 
 Run the app:
-
+```bash
 ./notes-linux
+```
 
 🔄 Auto-Update System
 
@@ -51,7 +52,7 @@ Run the app:
 Works for both Windows (.exe) and Linux binaries.
 
 📂 File Structure
-Notes App ZIP/
+.
 ├── notes-win.exe       # Windows binary
 ├── notes-linux         # Linux binary
 └── README.md           # This file
