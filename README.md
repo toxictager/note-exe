@@ -52,7 +52,6 @@ Run the app:
 Works for both Windows (.exe) and Linux binaries.
 
 📂 File Structure
-.
 ├── notes-win.exe       # Windows binary
 ├── notes-linux         # Linux binary
 └── README.md           # This file
