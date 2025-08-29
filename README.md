@@ -2,7 +2,7 @@
 
 🚀 A powerful, cross-platform desktop note-taking application — ready-to-run without installing Python!
 
-This is the ready-to-use executable version for Windows and Linux, featuring hierarchical notes, themes, and an automatic updater.
+This is the ready-to-use executable version for Windows and Linux, featuring hierarchical notes, multiple themes, and an automatic updater.
 
 ✨ Features
 
@@ -20,20 +20,18 @@ This is the ready-to-use executable version for Windows and Linux, featuring hie
 Windows
 
 Download the Windows ZIP from the latest release
-.
 
-Extract the ZIP.
+Extract the ZIP
 
 Run notes-win.exe — no setup required!
 
 Linux
 
 Download the Linux ZIP from the latest release
-.
 
-Extract the ZIP.
+Extract the ZIP
 
-Make the binary executable:
+Give the binary executable permission:
 
 chmod +x notes-linux
 
@@ -54,9 +52,9 @@ Works for both Windows (.exe) and Linux binaries.
 
 📂 File Structure
 Notes App ZIP/
-├── notes-win.exe         # Windows binary
-├── notes-linux           # Linux binary
-└── README.md             # This file
+├── notes-win.exe       # Windows binary
+├── notes-linux         # Linux binary
+└── README.md           # This file
 
 🛠️ Support
 
